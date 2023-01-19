@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Students/Andrew Mires/exploration-01-strugglebus/WaterTest/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_Ocean.uasset",
+				"D:/Students/Andrew Mires/exploration-01-strugglebus/WaterTest/Content/Main.umap",
+				"D:/Students/Andrew Mires/exploration-01-strugglebus/WaterTest/Content/Assets/CustomWave.uasset",
+				"D:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material.uasset",
+				"D:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/Water/Content/Waves/GerstnerWaves_Ocean.uasset",
 				"D:/Students/Andrew Mires/WaterTest/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Students/Andrew Mires/WaterTest/Content/StarterContent/Audio/Collapse01.uasset",
 				"D:/Students/Andrew Mires/WaterTest/Content/Main.umap"
