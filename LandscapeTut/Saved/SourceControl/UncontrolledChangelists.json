@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/beo8538/Documents/Unreal Projects/LandscapeTut/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/beo8538/Documents/Unreal Projects/LandscapeTut/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/beo8538/Documents/Unreal Projects/LandscapeTut/Content/Main.umap"
+			]
+		}
+	]
+}
