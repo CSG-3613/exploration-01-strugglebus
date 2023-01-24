@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Students/Andrew Mires/exploration-01-strugglebus/LandscapeTut/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/Students/Andrew Mires/exploration-01-strugglebus/LandscapeTut/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/Students/Andrew Mires/exploration-01-strugglebus/LandscapeTut/Content/Main.umap",
 				"C:/Users/beo8538/Documents/Unreal Projects/LandscapeTut/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/beo8538/Documents/Unreal Projects/LandscapeTut/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/beo8538/Documents/Unreal Projects/LandscapeTut/Content/Main.umap"
