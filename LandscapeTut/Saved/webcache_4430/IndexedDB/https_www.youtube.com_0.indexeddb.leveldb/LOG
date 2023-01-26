@@ -1,6 +1,0 @@
-2023/01/24-18:40:30.894 40dc Creating DB C:/Users/beo8538/Documents/GitHub/exploration-01-strugglebus/LandscapeTut/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
-2023/01/24-18:40:30.909 40dc Reusing MANIFEST C:/Users/beo8538/Documents/GitHub/exploration-01-strugglebus/LandscapeTut/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/01/24-19:24:18.525 3a5c Level-0 table #5: started
-2023/01/24-19:24:18.530 3a5c Level-0 table #5: 7590 bytes OK
-2023/01/24-19:24:18.535 3a5c Delete type=0 #3
-2023/01/24-19:24:18.535 3a5c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
