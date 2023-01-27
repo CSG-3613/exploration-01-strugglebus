@@ -2023,3 +2023,36 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.01.27-06.00.59:310][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 516 ms (total: 5.32 sec)
 [2023.01.27-06.00.59:320][762]AssetCheck: New page: Asset Save: Main
 [2023.01.27-06.00.59:320][762]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.01.27-06.07.04:623][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.01.27-06.07.05:854][349]LogSlate: Window 'Save Content' being destroyed
+[2023.01.27-06.07.05:882][349]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.27-06.07.06:151][349]LogSavePackage: Moving output files for package: /Game/MSPresets/M_MS_Default_Fuzz_Material/M_MS_Default_Fuzz_Material
+[2023.01.27-06.07.06:153][349]LogSavePackage: Moving 'C:/Users/beo8538/Documents/GitHub/exploration-01-strugglebus/LandscapeTut/Saved/M_MS_Default_Fuzz_Material618C673642711D8344E77FB7D175B57F.tmp' to 'C:/Users/beo8538/Documents/GitHub/exploration-01-strugglebus/LandscapeTut/Content/MSPresets/M_MS_Default_Fuzz_Material/M_MS_Default_Fuzz_Material.uasset'
+[2023.01.27-06.07.06:179][349]LogSavePackage: Moving output files for package: /Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material
+[2023.01.27-06.07.06:181][349]LogSavePackage: Moving 'C:/Users/beo8538/Documents/GitHub/exploration-01-strugglebus/LandscapeTut/Saved/M_MS_Default_MaterialB98FCE60402F3C35649F2FB4B14362C2.tmp' to 'C:/Users/beo8538/Documents/GitHub/exploration-01-strugglebus/LandscapeTut/Content/MSPresets/M_MS_Default_Material/M_MS_Default_Material.uasset'
+[2023.01.27-06.07.06:221][349]LogSavePackage: Moving output files for package: /Game/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material
+[2023.01.27-06.07.06:223][349]LogSavePackage: Moving 'C:/Users/beo8538/Documents/GitHub/exploration-01-strugglebus/LandscapeTut/Saved/M_MS_Foliage_Material2DC5AE454719820163752A8887781A36.tmp' to 'C:/Users/beo8538/Documents/GitHub/exploration-01-strugglebus/LandscapeTut/Content/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material.uasset'
+[2023.01.27-06.07.06:244][349]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Plants/Amaryllis_sgzkv/MI_Amaryllis_sgzkv_2K
+[2023.01.27-06.07.06:246][349]LogSavePackage: Moving 'C:/Users/beo8538/Documents/GitHub/exploration-01-strugglebus/LandscapeTut/Saved/MI_Amaryllis_sgzkv_2K99F570814A3BC9495EE9ACACBE0FC170.tmp' to 'C:/Users/beo8538/Documents/GitHub/exploration-01-strugglebus/LandscapeTut/Content/Megascans/3D_Plants/Amaryllis_sgzkv/MI_Amaryllis_sgzkv_2K.uasset'
+[2023.01.27-06.07.06:268][349]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Beach_Boulder_wdkibav/MI_Beach_Boulder_wdkibav_2K
+[2023.01.27-06.07.06:270][349]LogSavePackage: Moving 'C:/Users/beo8538/Documents/GitHub/exploration-01-strugglebus/LandscapeTut/Saved/MI_Beach_Boulder_wdkibav_2K473897244767836CFF61549F92524B19.tmp' to 'C:/Users/beo8538/Documents/GitHub/exploration-01-strugglebus/LandscapeTut/Content/Megascans/3D_Assets/Beach_Boulder_wdkibav/MI_Beach_Boulder_wdkibav_2K.uasset'
+[2023.01.27-06.07.06:291][349]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Icelandic_Mossy_Rock_tgykdcnba/MI_Icelandic_Mossy_Rock_tgykdcnba_4K
+[2023.01.27-06.07.06:293][349]LogSavePackage: Moving 'C:/Users/beo8538/Documents/GitHub/exploration-01-strugglebus/LandscapeTut/Saved/MI_Icelandic_Mossy_Rock_tgykdcnb2BE948354EE1A9A4B321909EA0865FAB.tmp' to 'C:/Users/beo8538/Documents/GitHub/exploration-01-strugglebus/LandscapeTut/Content/Megascans/3D_Assets/Icelandic_Mossy_Rock_tgykdcnba/MI_Icelandic_Mossy_Rock_tgykdcnba_4K.uasset'
+[2023.01.27-06.07.06:312][349]LogFileHelpers: InternalPromptForCheckoutAndSave took 430 ms (total: 5.75 sec)
+[2023.01.27-06.07.06:322][349]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.27-06.07.06:322][349]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/3D_Assets/Icelandic_Mossy_Rock_tgykdcnba/MI_Icelandic_Mossy_Rock_tgykdcnba_4K.MI_Icelandic_Mossy_Rock_tgykdcnba_4K
+[2023.01.27-06.07.06:322][349]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MSPresets/M_MS_Default_Fuzz_Material/M_MS_Default_Fuzz_Material.M_MS_Default_Fuzz_Material
+[2023.01.27-06.07.06:322][349]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/3D_Assets/Beach_Boulder_wdkibav/MI_Beach_Boulder_wdkibav_2K.MI_Beach_Boulder_wdkibav_2K
+[2023.01.27-06.07.06:322][349]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material.M_MS_Default_Material
+[2023.01.27-06.07.06:322][349]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/3D_Plants/Amaryllis_sgzkv/MI_Amaryllis_sgzkv_2K.MI_Amaryllis_sgzkv_2K
+[2023.01.27-06.07.06:322][349]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material.M_MS_Foliage_Material
+[2023.01.27-06.07.06:325][349]LogShaderCompilers: Display: ================================================
+[2023.01.27-06.07.06:325][349]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.27-06.07.06:325][349]LogShaderCompilers: Display: Total job queries 2396, among them cache hits 34 (1.42%)
+[2023.01.27-06.07.06:325][349]LogShaderCompilers: Display: Tracking 2362 distinct input hashes that result in 726 distinct outputs (30.74%)
+[2023.01.27-06.07.06:325][349]LogShaderCompilers: Display: RAM used: 10.96 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.67%
+[2023.01.27-06.07.06:325][349]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.27-06.07.06:325][349]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.27-06.07.06:325][349]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.01.27-06.07.06:325][349]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.27-06.07.06:325][349]LogShaderCompilers: Display: ================================================
