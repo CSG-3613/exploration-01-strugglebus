@@ -2056,3 +2056,46 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.01.27-06.07.06:325][349]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
 [2023.01.27-06.07.06:325][349]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
 [2023.01.27-06.07.06:325][349]LogShaderCompilers: Display: ================================================
+[2023.01.27-06.14.02:410][464]LogViewport: Scene viewport resized to 1104x902, mode Windowed.
+[2023.01.27-06.14.04:764][574]LogLandscape: Warning: Shader FUVLightCardVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.01.27-06.14.04:764][574]LogLandscape: Warning: Shader FUVLightCardVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.01.27-06.14.04:767][574]LogShaderCompilers: Display: ================================================
+[2023.01.27-06.14.04:767][574]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.27-06.14.04:767][574]LogShaderCompilers: Display: Total job queries 2400, among them cache hits 34 (1.42%)
+[2023.01.27-06.14.04:767][574]LogShaderCompilers: Display: Tracking 2366 distinct input hashes that result in 730 distinct outputs (30.85%)
+[2023.01.27-06.14.04:767][574]LogShaderCompilers: Display: RAM used: 10.97 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.67%
+[2023.01.27-06.14.04:767][574]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.27-06.14.04:767][574]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.27-06.14.04:767][574]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.01.27-06.14.04:767][574]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.27-06.14.04:767][574]LogShaderCompilers: Display: ================================================
+[2023.01.27-06.14.05:113][575]LogLandscape: Warning: Shader FUVLightCardVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.01.27-06.14.05:113][575]LogLandscape: Warning: Shader FUVLightCardVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.01.27-06.14.05:113][575]LogLandscape: Warning: Shader FUVLightCardVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.01.27-06.14.05:114][575]LogLandscape: Warning: Shader FUVLightCardVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.01.27-06.14.05:114][575]LogLandscape: Warning: Shader FUVLightCardVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.01.27-06.14.05:115][575]LogLandscape: Warning: Shader FUVLightCardVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.01.27-06.14.05:115][575]LogLandscape: Warning: Shader FUVLightCardVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.01.27-06.14.05:115][575]LogLandscape: Warning: Shader FUVLightCardVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.01.27-06.14.05:115][575]LogLandscape: Warning: Shader FUVLightCardVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.01.27-06.14.05:115][575]LogLandscape: Warning: Shader FUVLightCardVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.01.27-06.14.05:115][575]LogLandscape: Warning: Shader FUVLightCardVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.01.27-06.14.05:115][575]LogLandscape: Warning: Shader FUVLightCardVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.01.27-06.14.05:124][575]LogLandscape: Warning: Shader FUVLightCardVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.01.27-06.14.05:128][575]LogLandscape: Warning: Shader FUVLightCardVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.01.27-06.14.05:128][575]LogLandscape: Warning: Shader FUVLightCardVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.01.27-06.14.05:128][575]LogLandscape: Warning: Shader FUVLightCardVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.01.27-06.14.05:128][575]LogLandscape: Warning: Shader FUVLightCardVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.01.27-06.14.05:128][575]LogLandscape: Warning: Shader FUVLightCardVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.01.27-06.14.05:128][575]LogLandscape: Warning: Shader FUVLightCardVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.01.27-06.14.55:656][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.27-06.14.55:719][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="C:/Users/beo8538/Documents/GitHub/exploration-01-strugglebus/LandscapeTut/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.01.27-06.14.55:975][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.01.27-06.14.55:986][802]LogTexture: Display: Building textures: /Game/Main.Main:PersistentLevel.Landscape_0.Weightmap_269 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.01.27-06.14.56:002][802]LogTexture: Display: Building textures: /Game/Main.Main:PersistentLevel.Landscape_0.Weightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.01.27-06.14.56:425][802]LogSavePackage: Moving output files for package: /Game/Main
+[2023.01.27-06.14.56:426][802]LogSavePackage: Moving 'C:/Users/beo8538/Documents/GitHub/exploration-01-strugglebus/LandscapeTut/Saved/Main4030E0AB4CA192D50A1105995ED4BBAD.tmp' to 'C:/Users/beo8538/Documents/GitHub/exploration-01-strugglebus/LandscapeTut/Content/Main.umap'
+[2023.01.27-06.14.56:441][802]LogFileHelpers: Saving map 'Main' took 0.723
+[2023.01.27-06.14.56:456][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 799 ms (total: 6.55 sec)
+[2023.01.27-06.14.56:466][802]AssetCheck: New page: Asset Save: Main
+[2023.01.27-06.14.56:466][802]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
